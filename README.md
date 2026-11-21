@@ -1,118 +1,102 @@
-<!-- Save as README.md in a PUBLIC repo named exactly: kothurigoutham (same as your username) -->
+&lt;div align=&quot;center&quot;&gt;
+  &lt;!-- Upload your generated banner image as banner.jpg in your kothurigoutham/kothurigoutham repository --&gt;
+  &lt;img src=&quot;./banner.jpg&quot; alt=&quot;Kothuri Goutham — Java Full Stack Developer &amp; AI Engineer&quot; width=&quot;100%&quot; /&gt;
 
-<div align="center">
+  &lt;br /&gt;&lt;br /&gt;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0e0a1d,100:6a45e8&text=Goutham%20Kothuri&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Agents%20Engineer&descSize=18&descAlignY=60" alt="Goutham Kothuri banner" />
-
-<a href="https://gouthamportfolio-six.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9B7BFF&center=true&vCenter=true&width=640&lines=Spring+Boot+microservices+and+REST+APIs;React+interfaces+that+talk+to+real+backends;RAG+systems+and+AI+agents+built+for+production" alt="Typing animation" /></a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-gouthamportfolio--six.vercel.app-6a45e8?style=for-the-badge&logo=vercel&logoColor=white)](https://gouthamportfolio-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kothurigoutham-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kothurigoutham)
-[![Email](https://img.shields.io/badge/Email-kothurigoutham34@gmail.com-0e0a1d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kothurigoutham34@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Kothuri__Goutham-0e0a1d?style=for-the-badge&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/Kothuri_Goutham/)
-
-</div>
+  &lt;a href=&quot;https://gouthamportfolio-six.vercel.app/&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/badge/Portfolio-gouthamportfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&quot; alt=&quot;Portfolio&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.google.com/search?q=https://www.linkedin.com/in/kothurigoutham&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-kothurigoutham-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.google.com/search?q=https://leetcode.com/u/Kothuri\_Goutham/&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/badge/LeetCode-Kothuri__Goutham-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black&quot; alt=&quot;LeetCode&quot; /&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;mailto:kothurigoutham34@gmail.com&quot;&gt;
+    &lt;img src=&quot;https://img.shields.io/badge/Email-kothurigoutham34%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Email&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
 ---
 
-## About me
+### About Me
 
-I'm a **Java full stack developer and AI agents engineer** based in Hyderabad, India. I build **Spring Boot** services, **React** front ends, **RAG** pipelines and **AI agents**, and I care about shipping them in a way that holds up in production: clean REST APIs, event-driven design with Kafka, containers and CI/CD.
+I'm **Kothuri Goutham**, a **Java Full Stack Developer & AI Engineer** from **Hyderabad, Telangana, India**, focused on building production-ready **Spring Boot microservices**, **React.js** applications, and enterprise **RAG & AI Agent** systems.
 
-- Completed internships with **JPMorgan Chase (Forage)** and the **National Internship Portal** (1M1B, AICTE and IBM SkillsBuild)
-- Studying **B.Tech in Information Technology** at CBIT, Hyderabad (2025 to 2028)
-- Focus areas: backend engineering, retrieval-augmented generation, agent workflows, vector search
+- 🎓 **Education:** B.Tech in Information Technology at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad** (2025–2028) · Diploma in CSE at **Govt. Polytechnic College, Masab Tank** (CGPA: 8.96)
+- 🚀 **Core Focus:** Event-driven backends (`Apache Kafka`), vector search (`PostgreSQL + pgvector`), autonomous AI agent workflows, and containerized CI/CD delivery (`Docker`, `GitHub Actions`, `AWS`)
+- 🌐 **Portfolio:** [gouthamportfolio-six.vercel.app](https://gouthamportfolio-six.vercel.app/)
 
-## Tech stack
+---
 
-<div align="center">
+### Experience & Simulations
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,python&perline=6" alt="Backend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,redux,js,tailwind&perline=4" alt="Frontend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=4" alt="Databases" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,github,postman&perline=6" alt="DevOps and tools" />
+- **AI for Sustainability Virtual Intern** — *1M1B, AICTE & IBM SkillsBuild (National Internship Portal)* *(Jul – Sep 2026)*
+  - Built [SmartFridge AI](https://www.google.com/search?q=https://github.com/kothurigoutham/smart-fridge-project), an AI-driven kitchen management system aligned with UN SDGs using real-time computer vision item tracking, autonomous shelf-life/recipe agent workflows, and REST APIs connecting Python AI inference with a React.js dashboard.
+- **Software Engineering Job Simulation** — *JPMorgan Chase & Co. (Forage)* *(Feb 2026)*
+  - Integrated **Apache Kafka** into a **Spring Boot** microservice ([forage-midas](https://www.google.com/search?q=https://github.com/kothurigoutham/forage-midas)) for high-throughput financial transaction deserialization, **Spring Data JPA** persistence, third-party rewards API integration via `RestTemplate`, and Spring MVC balance-query endpoints with Maven test automation.
 
-</div>
+---
 
-| Area | What I work with |
-|------|------------------|
-| **Backend** | Java 17/21, Spring Boot, Spring Security, Spring Data JPA, Hibernate, microservices, REST APIs, Apache Kafka |
-| **AI and agents** | RAG, AI agents, Spring AI, LLM APIs, vector search with pgvector, prompt engineering |
-| **Frontend** | React.js, Redux, JavaScript (ES6+), Tailwind CSS, Axios |
-| **Databases** | MySQL, MongoDB, PostgreSQL, Redis |
-| **DevOps and cloud** | Docker, GitHub Actions CI/CD, AWS (S3, EC2), Git, Maven, Postman |
+### Featured Projects
 
-## Featured projects
+| Project | Overview | Tech Stack |
+| :--- | :--- | :--- |
+| [Enterprise Advanced RAG Document QA System](https://www.google.com/search?q=https://github.com/kothurigoutham/Spring-Vector-AI) | Semantic search & low-latency contextual Q&A over multi-page documents with drag-and-drop upload, token streaming, and source citations. | `Java` `Spring Boot` `React.js` `PostgreSQL` `pgvector` `Apache PDFBox` `Docker` |
+| [CodeGuard](https://www.google.com/search?q=https://github.com/kothurigoutham/CodeGuard) | Automated static code analysis engine using Abstract Syntax Trees (AST) to detect security anti-patterns paired with a live React scorecard dashboard. | `Python` `React.js` `AST Analysis` `REST APIs` |
+| [Enterprise JWT Auth \& RBAC Platform](https://www.google.com/search?q=https://github.com/kothurigoutham/springboot-react-jwt-token) | Stateless JWT authentication with token blacklisting, refresh tokens, granular Role-Based Access Control (RBAC), and protected React routes. | `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `React.js` |
+| [SmartFridge AI](https://www.google.com/search?q=https://github.com/kothurigoutham/smart-fridge-project) | Computer-vision food inventory tracker with autonomous AI agent workflows for expiry prediction and contextual recipe recommendations. | `Python` `Computer Vision` `AI Agents` `REST APIs` `React.js` |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kothurigoutham/Spring-Vector-AI">Enterprise RAG Document Q&amp;A</a></h3>
-      Semantic search and contextual Q&amp;A over multi-page documents. A Spring Boot ingestion engine chunks PDFs with Apache PDFBox and stores embeddings in PostgreSQL with pgvector. The React UI streams tokens in real time with source citations.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-Spring%20Boot-6db33f?style=flat-square" />
-      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kothurigoutham/smart-fridge-project">SmartFridge AI</a></h3>
-      AI-driven kitchen system aligned with UN SDGs to cut household food waste. Uses multi-zone computer vision for item tracking and autonomous agent workflows to estimate shelf life, predict expiry and suggest recipes. REST APIs connect the Python inference service to a React dashboard.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI%20Agents-6a45e8?style=flat-square" />
-      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kothurigoutham/springboot-react-jwt-token">JWT Auth &amp; RBAC Platform</a></h3>
-      Full-stack authentication with stateless JWT, refresh tokens, token blacklisting and granular role-based access control. Spring Security and Spring Data JPA on MySQL, with a React client that uses route guards.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Spring%20Security-6db33f?style=flat-square&logo=springsecurity&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kothurigoutham/CodeGuard">CodeGuard</a></h3>
-      Automated code security and static analysis platform. An AST-based engine detects vulnerabilities and insecure patterns, and a decoupled React dashboard shows real-time security scorecards.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AST%20Analysis-0e0a1d?style=flat-square" />
-      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-    </td>
-  </tr>
-</table>
+---
 
-## Internship experience
+### Tech Stack
 
-- **AI for Sustainability Virtual Intern** at 1M1B, AICTE and IBM SkillsBuild (Jul to Sep 2026): built SmartFridge AI with computer vision and agent workflows
-- **Software Engineering Job Simulation** at JPMorgan Chase (Forage, Feb 2026): integrated Apache Kafka into a Spring Boot microservice, persisted transactions with Spring Data JPA and built REST endpoints with Maven test automation
+**Backend & Event-Driven**
+&lt;p&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white&quot; alt=&quot;Java&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white&quot; alt=&quot;Spring Boot&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&amp;logo=springsecurity&amp;logoColor=white&quot; alt=&quot;Spring Security&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Hibernate-59666C?style=flat-square&amp;logo=hibernate&amp;logoColor=white&quot; alt=&quot;Hibernate&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white&quot; alt=&quot;Apache Kafka&quot; /&gt;
+&lt;/p&gt;
 
-## GitHub stats
+**AI & Generative AI**
+&lt;p&gt;
+  &lt;img src=&quot;https://www.google.com/search?q=https://img.shields.io/badge/RAG\_Pipelines-1E293B%3Fstyle%3Dflat-square&quot; alt=&quot;RAG Pipelines&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white&quot; alt=&quot;Spring AI&quot; /&gt;
+  &lt;img src=&quot;https://www.google.com/search?q=https://img.shields.io/badge/AI\_Agents-0F172A%3Fstyle%3Dflat-square&quot; alt=&quot;AI Agents&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/pgvector-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white&quot; alt=&quot;pgvector&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white&quot; alt=&quot;Python&quot; /&gt;
+&lt;/p&gt;
 
-<div align="center">
+**Frontend, Databases & DevOps**
+&lt;p&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black&quot; alt=&quot;React&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white&quot; alt=&quot;Redux&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white&quot; alt=&quot;Tailwind CSS&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white&quot; alt=&quot;PostgreSQL&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white&quot; alt=&quot;MySQL&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white&quot; alt=&quot;Docker&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white&quot; alt=&quot;GitHub Actions&quot; /&gt;
+  &lt;img src=&quot;https://img.shields.io/badge/AWS_S3_%26_EC2-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white&quot; alt=&quot;AWS&quot; /&gt;
+&lt;/p&gt;
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kothurigoutham&show_icons=true&hide_border=true&bg_color=0e0a1d&title_color=9b7bff&icon_color=6aa2ff&text_color=d6d3ea&ring_color=9b7bff&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kothurigoutham&layout=compact&hide_border=true&bg_color=0e0a1d&title_color=9b7bff&text_color=d6d3ea&langs_count=6" alt="Top languages" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothurigoutham&hide_border=true&background=0e0a1d&ring=9b7bff&fire=6aa2ff&currStreakLabel=d6d3ea&sideLabels=d6d3ea&currStreakNum=ffffff&sideNums=ffffff&dates=a09db8" alt="GitHub streak" />
+### Certifications
 
-</div>
+- [AI for Sustainability Virtual Internship — 1M1B, AICTE & IBM (2026)](https://drive.google.com/file/d/1yT-qQKsPevQk6MaRoTzD8F6t6FIeUE-2/view?usp=drive_link)
+- [JPMorgan Chase Software Engineering Simulation — Forage (Feb 2026)](https://drive.google.com/file/d/1OqxnX5gbXhwtZE-xZX-2wDdLn37mA9EJ/view?usp=drive_link)
+- [AWS Cloud Practitioner (2025)](https://drive.google.com/file/d/1RNDiR2eWNQdWwTYYn9Ur_wLdPu3cBXJk/view?usp=drive_link)
+- [MERN Stack Development — CodeTech (Nov 2025)](https://drive.google.com/file/d/15zkVAnhEvAc8jGrEuxYc-u3oq89a012B/view?usp=drive_link)
+- [Deloitte Data Analytics — Forage (Feb 2026)](https://drive.google.com/file/d/1_qge1qTmRQAjF5jLgWRWq0XSzt8j3EnY/view?usp=drive_link)
 
-## Certifications
+---
 
-AWS Cloud Practitioner (2025) · JPMorgan Chase Software Engineering Simulation (Forage, 2026) · Deloitte Data Analytics (Forage, 2026) · MERN Stack Development (CodeTech, 2025) · AI for Sustainability Virtual Internship (1M1B, AICTE and IBM, 2026)
+### GitHub Activity
 
-## Let's connect
-
-I'm open to talking about backend, AI agents and full stack work. The fastest way to reach me is [email](mailto:kothurigoutham34@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kothurigoutham). More of my work is on my [portfolio](https://gouthamportfolio-six.vercel.app/).
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6a45e8,100:0e0a1d&section=footer" alt="footer" />
-</div>
+&lt;div align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=kothurigoutham&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&quot; alt=&quot;Kothuri Goutham&#39;s GitHub Stats&quot; height=&quot;170&quot; /&gt;
+  &lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=kothurigoutham&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&quot; alt=&quot;Top Languages&quot; height=&quot;170&quot; /&gt;
+&lt;/div&gt;
