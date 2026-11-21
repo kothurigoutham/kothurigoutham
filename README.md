@@ -76,12 +76,14 @@ I'm a **Java full stack developer and AI agents engineer** in Hyderabad, India. 
       <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/kothurigoutham/CodeGuard">CodeGuard</a></h3>
-      Automated code security and static analysis platform. An AST-based engine detects vulnerabilities and insecure patterns, and a decoupled React dashboard shows real-time security scorecards.
+      <h3><a href="https://github.com/kothurigoutham/spring-boot-ai">Spring Boot AI Agent (MCP &amp; RAG)</a></h3>
+      AI agent built with Spring AI that books accommodation in tourist cities. Uses the Chat Client API with advisors for RAG and chat memory, a local weather tool and a remote booking tool over the Model Context Protocol, and runs on Ollama, Google Gemini or AWS Bedrock through Spring profiles.
+      <br/><sub>Based on the open-source sample by <a href="https://github.com/rogervinas/spring-boot-ai">rogervinas</a>.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AST%20Analysis-1f2937?style=flat-square" />
-      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Spring%20AI-6db33f?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-6a45e8?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-6a45e8?style=flat-square" />
+      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
