@@ -96,10 +96,11 @@ I'm a **Java Full Stack Developer**. I build Spring Boot services, React front e
 - Worked on practical software engineering tasks simulating real-world development workflows at JPMorgan Chase.
 
 ### 2. AI for Sustainability Virtual Internship
-- **Platform:** 1M1B
+- **Platform:** National Internship Portal (AICTE)
+- **Program Partner:** 1M1B
 - **Supported by:** AICTE & IBM SkillsBuild
 - **Domain:** Artificial Intelligence & Sustainability
-- **Technologies & Skills:** Artificial Intelligence, Responsible AI, Agentic AI, Retrieval-Augmented Generation (RAG), AI Applications, UN Sustainable Development Goals (SDGs).
+- **Skills:** Artificial Intelligence, Responsible AI, Agentic AI, Retrieval-Augmented Generation (RAG), Sustainability, and UN Sustainable Development Goals (SDGs).
 - Explored AI-driven solutions, responsible AI practices, and applications of Agentic AI and RAG for sustainability challenges.
 
 
