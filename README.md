@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Hi, I'm Kothuri Goutham. Java Full Stack Developer and AI Engineer" width="100%" />
+<img src="assets/banner.jpg" alt="Hi, I'm Kothuri Goutham. Java Full Stack Developer" width="100%" />
 
 <br/>
 
@@ -18,9 +18,7 @@
 
 ## About me
 
-I'm a **Java full stack developer and AI agents engineer** in Hyderabad, India. I build **Spring Boot** services, **React** front ends, **RAG** pipelines and **AI agents**, and I focus on shipping them in a way that holds up in production: clean REST APIs, event-driven design with Kafka, containers and CI/CD.
-
-- Internships with **JPMorgan Chase (Forage)** and the **National Internship Portal** (1M1B, AICTE and IBM SkillsBuild)
+I'm a **Java Full Stack Developer**. I build Spring Boot services, React front ends, RAG pipelines, and AI-powered applications, focusing on production-ready solutions through clean REST APIs, event-driven architecture with Kafka, containers, and CI/CD
 - **B.Tech in Information Technology** at CBIT, Hyderabad (2025 to 2028)
 
 ## Core stack
@@ -88,10 +86,22 @@ I'm a **Java full stack developer and AI agents engineer** in Hyderabad, India. 
   </tr>
 </table>
 
-## Internship experience
 
-- **AI for Sustainability Virtual Intern**, 1M1B, AICTE and IBM SkillsBuild (Jul to Sep 2026): built SmartFridge AI with computer vision and agent workflows
-- **Software Engineering Job Simulation**, JPMorgan Chase (Forage, Feb 2026): integrated Apache Kafka into a Spring Boot microservice, persisted transactions with Spring Data JPA and built REST endpoints with Maven test automation
+## 💼 Internship Experience
+
+### 1. JPMorgan Chase – Software Engineering Virtual Experience
+- **Platform:** Forage
+- **Domain:** Software Engineering
+- **Technologies & Skills:** Java, Spring Boot, Apache Kafka, Maven, Backend Development, REST APIs, Event-Driven Architecture.
+- Worked on practical software engineering tasks simulating real-world development workflows at JPMorgan Chase.
+
+### 2. AI for Sustainability Virtual Internship
+- **Platform:** 1M1B
+- **Supported by:** AICTE & IBM SkillsBuild
+- **Domain:** Artificial Intelligence & Sustainability
+- **Technologies & Skills:** Artificial Intelligence, Responsible AI, Agentic AI, Retrieval-Augmented Generation (RAG), AI Applications, UN Sustainable Development Goals (SDGs).
+- Explored AI-driven solutions, responsible AI practices, and applications of Agentic AI and RAG for sustainability challenges.
+
 
 ## Certifications
 
